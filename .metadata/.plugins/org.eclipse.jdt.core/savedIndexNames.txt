@@ -1,0 +1,13 @@
+INDEX VERSION 1.134+C:\ws - aclispsee\.metadata\.plugins\org.eclipse.jdt.core
+2936596959.index
+2022136113.index
+3658044063.index
+1865797976.index
+1378395735.index
+2071101411.index
+3949506412.index
+2258561048.index
+3654592591.index
+565156327.index
+3624917321.index
+1713872532.index
